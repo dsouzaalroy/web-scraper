@@ -1,1 +1,1 @@
-# Yahoo-finance-web-scraper
+# Web Scraper
