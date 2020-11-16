@@ -1,2 +1,2 @@
-# Yahoo-finance-web-scraper
+# Web-scraper
 Testing commit
